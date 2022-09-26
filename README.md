@@ -11,15 +11,16 @@ As an entrepreneur , I'm interested in
 
 Please take a look at my website and feel free to Contact Me!
 
-(Header1: ABOUT JAIQUEZ)
+ABOUT JAIQUEZ
 
-(par1) After dropping out of college, and deciding to pursue an everlasting career at a Corporation. While also pursuing business endeavors. I got bored with doing monotonous tasks, and decided to expand towards something that felt a bit more ,rewarding. For the safe of my humanity. 😀
+After dropping out of college, and deciding to pursue an everlasting career at a Corporation. While also pursuing business endeavors. I got bored with doing monotonous tasks, and decided to expand towards something that felt a bit more ,rewarding. For the safe of my humanity. 😀
 
-(par2) As a Thinkful student, I've parted my ways and moved on, to brighter horizons. From this moment on. I am a Software Developer, and quite honestly, I couldn't be happier. 
+As a Thinkful student, I've parted my ways and moved on, to brighter horizons. From this moment on. I am a Software Developer, and quite honestly, I couldn't be happier. 
 
-(par3) If you're looking to hire a new developer (or are wanting a music friend) please hit my line! I'm stoked to work with other developers and innovative thinkers. 
+If you're looking to hire a new developer (or are wanting a music friend) please hit my line! I'm stoked to work with other developers and innovative thinkers. 
 
-(Header 2: CONTACT JAIQUEZ)
+
 I'd love to hear from you! Feel free to contact or follow me:
+
 1.) LinkedIn (https://www.linkedin.com/in/jaiquez-duncan/)
 2.) GitHub (https://github.com/KingQueezy)
