@@ -16,9 +16,28 @@ html {
 /* Sections
    ========================================================================== */
 
+/**
+ * Remove the margin in all browsers.
+ */
 
 body {
   margin: 0;
+  background-color: purple;
+  .img-jay {
+	width: 500px;
+	height: 500px;
+	background-image: url(img/IMG_2053);	
+  }
+  .img-jay2 {
+	width: 500px;
+	height: 500px;
+	background-image: url(img/IMG_2677); 
+  }
+  .img-jay3 {
+	width:
+	height:
+	background-image: url(img/jayposed-420);
+  }
 }
 
 /**
@@ -28,6 +47,11 @@ body {
 main {
   display: block;
 }
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
 
 h1 {
   font-size: 2em;
@@ -139,8 +163,6 @@ sup {
 
 img {
   border-style: none;
-  box-sizing: content-box;
-   
 }
 
 /* Forms
