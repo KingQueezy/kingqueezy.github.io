@@ -22,7 +22,8 @@ html {
 
 body {
   margin: 0;
-  background-color: purple;
+  background: purple;
+  text-align: center;
   .img-jay {
 	width: 500px;
 	height: 500px;
@@ -54,6 +55,7 @@ main {
  */
 
 h1 {
+	color: black;
   font-size: 2em;
   margin: 0.67em 0;
 }
