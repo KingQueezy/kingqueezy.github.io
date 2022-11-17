@@ -22,23 +22,8 @@ html {
 
 body {
   margin: 0;
-  background: purple;
+  background-color: #CCCCFF;
   text-align: center;
-  .img-jay {
-	width: 500px;
-	height: 500px;
-	background-image: url(img/IMG_2053);	
-  }
-  .img-jay2 {
-	width: 500px;
-	height: 500px;
-	background-image: url(img/IMG_2677); 
-  }
-  .img-jay3 {
-	width:
-	height:
-	background-image: url(img/jayposed-420);
-  }
 }
 
 /**
@@ -58,6 +43,21 @@ h1 {
 	color: black;
   font-size: 2em;
   margin: 0.67em 0;
+    .img-jay {
+	width: 500px;
+	height: 500px;
+	background-image: url("img/IMG_2053.jpg");	
+  }
+  .img-jay2 {
+	width: 500px;
+	height: 500px;
+	background-image: url("img/IMG_2677.jpg"); 
+  }
+  .img-jay3 {
+	width:500px;
+	height: 500px;
+	background-image: url("img/jayposed-420.jpg");
+  }
 }
 
 /* Grouping content
