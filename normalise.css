@@ -22,8 +22,22 @@ html {
 
 body {
   margin: 0;
-  background-color: #CCCCFF;
   text-align: center;
+   .img-jay {
+	width: 500px;
+	height: 500px;
+	background-image: url("img/IMG_2053.jpg");	
+  }
+  .img-jay2 {
+	width: 500px;
+	height: 500px;
+	background-image: url("img/IMG_2677.jpg"); 
+  }
+  .img-jay3 {
+	width:500px;
+	height: 500px;
+	background-image: url("img/jayposed-420.jpg");
+  }
 }
 
 /**
@@ -40,24 +54,12 @@ main {
  */
 
 h1 {
-	background-color: black;
+	color: black;
   font-size: 2em;
   margin: 0.67em 0;
-    .img-jay {
-	width: 500px;
-	height: 500px;
-	background-image: url("img/IMG_2053.jpg");	
-  }
-  .img-jay2 {
-	width: 500px;
-	height: 500px;
-	background-image: url("img/IMG_2677.jpg"); 
-  }
-  .img-jay3 {
-	width:500px;
-	height: 500px;
-	background-image: url("img/jayposed-420.jpg");
-  }
+}
+div {
+	background-color: purple;
 }
 
 /* Grouping content
