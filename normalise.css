@@ -49,6 +49,7 @@ styledimg {
 
 main {
   display: block;
+  background-color: indigo;
 }
 
 /**
@@ -62,7 +63,7 @@ h1 {
   margin: 0.67em 0;
 }
 div {
-	background-color: purple;
+	background-color: indigo;
 }
 
 /* Grouping content
