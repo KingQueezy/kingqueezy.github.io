@@ -54,7 +54,7 @@ main {
  */
 
 h1 {
-	background-color: black;
+	color: black;
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -94,7 +94,7 @@ pre {
  */
 
 a {
-  background-color: transparent;
+  background-color: purple;
 }
 
 /**
