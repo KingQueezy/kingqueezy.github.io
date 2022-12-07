@@ -22,24 +22,27 @@ html {
 
 body {
   margin: 0;
+  background-color: indigo;
   text-align: center;
-   .img-jay {
+}
+
+styledimg {
+	.img-jay {
 	width: 500px;
 	height: 500px;
 	background-image: url("img/IMG_2053.jpg");	
   }
-  .img-jay2 {
+	.img-jay2 {
 	width: 500px;
 	height: 500px;
 	background-image: url("img/IMG_2677.jpg"); 
   }
-  .img-jay3 {
+	.img-jay3 {
 	width:500px;
 	height: 500px;
 	background-image: url("img/jayposed-420.jpg");
   }
 }
-
 /**
  * Render the `main` element consistently in IE.
  */
