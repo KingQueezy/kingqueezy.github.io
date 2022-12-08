@@ -27,29 +27,27 @@ body {
   text-align: center;
 }
 
-styledimg {
-	.img-jay {
+.img-jay {
 	width: 500px;
 	height: 500px;
 	background-image: url("img/20221011_110555.jpg");	
 	background-size: 100%;
 	background-repeat: no-repeat;
-  }
-	.img-jay2 {
+ }
+.img-jay2 {
 	width: 500px;
 	height: 500px;
 	background-image: url("img/IMG_2677.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
-  }
-	.img-jay3 {
+ }
+.img-jay3 {
 	width:500px;
 	height: 500px;
 	background-image: url("img/jayposed-420.jpg");
 	background-size: 100%;
 	background-repeat: no-repeat;
-  }
-}
+ }
 /**
  * Render the `main` element consistently in IE.
  */
