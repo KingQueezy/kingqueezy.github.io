@@ -31,17 +31,23 @@ styledimg {
 	.img-jay {
 	width: 500px;
 	height: 500px;
-	background-image: url("img/IMG_2053.jpg");	
+	background-image: url("img/20221011_110555.jpg");	
+	background-size: 100%;
+	background-repeat: no-repeat;
   }
 	.img-jay2 {
 	width: 500px;
 	height: 500px;
-	background-image: url("img/IMG_2677.jpg"); 
+	background-image: url("img/IMG_2677.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
   }
 	.img-jay3 {
 	width:500px;
 	height: 500px;
 	background-image: url("img/jayposed-420.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
   }
 }
 /**
